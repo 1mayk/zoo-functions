@@ -1,0 +1,25 @@
+{
+  "name": "zoo-functions",
+  "version": "1.0.0",
+  "description": "Have fun with JS!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1mayk/zoo-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1mayk/zoo-functions/issues"
+  },
+  "homepage": "https://github.com/1mayk/zoo-functions#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22"
+  }
+}
